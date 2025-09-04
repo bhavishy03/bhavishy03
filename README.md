@@ -1,20 +1,52 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bhavishy Rajak
-=======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Bhavishy</h1>
+<h3 align="center">Web Developer | UI/UX Designer | Freelancer</h3>
 
-Web Developer | UI/UX Designer | Freelancer
--------------------------------------------
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F3ACE&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer;UI%2FUX+Designer;MERN+Stack+Learner;Freelancer+on+Fiverr+%26+Upwork" alt="Typing Animation" />
+</p>
+## 👨‍💻 About Me
 
-"Creative Web Developer & UI/UX Designer crafting modern, responsive, and interactive websites with React, Next.js, and Tailwind CSS."
+- 🔭 I’m currently working on **Portfolio Websites & Food Delivery Web Apps**
+- 🌱 I’m currently learning **Next.js, TypeScript, and 3D Web Design**
+- 👯 I’m looking to collaborate on **UI/UX & MERN Stack Projects**
+- 💬 Ask me about **React, TailwindCSS, Framer Motion, UI Animations**
+- 📫 Reach me at **bhavishy.rajak@gmail.com**
+- ⚡ Fun fact: *I design first, code later 🚀*
+## 🚀 Tech Stack
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [bhavishyrajak2036@gmail.com](mailto:bhavishyrajak2036@gmail.com)
-* 🚀  I'm currently working on [🔭 I’m currently working on \*\*Portfolio Websites \*\*](http://adda-food.vercel.app/)
-* 🧠  I'm currently learning I’m currently learning \*\*Next.js, TypeScript, and 3D Web Design\*\*
-
+### Languages & Frameworks
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb" />
 </p>
 
-### Socials
+### Tools & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,figma,git,github,vscode,photoshop" />
+</p>
+## 💼 Featured Projects
 
-<p align="left"> <a href="https://www.github.com/bhavishy03" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/bhavishy03/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@bhavishy03/bhavishy03/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </pictur mujhe ye code add kaha karna hai 
+- 🚀 **[Food Delivery Website](https://your-live-link.com)**  
+  _React, Tailwind, Node.js_  
+  A complete online food delivery platform with modern UI.
+
+- 🎨 **[Portfolio Website](https://your-portfolio-link.com)**  
+  _Next.js, Framer Motion, Tailwind_  
+  A fully responsive, animated developer portfolio.
+
+➡️ Check more at [My Repositories](https://github.com/your-username?tab=repositories)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="streak" />
+</p>
+## 🌍 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://wa.me/919876543210" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:bhavishy.rajak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+---
+<p align="center">⭐️ From [Bhavishy](https://github.com/your-username)</p>
