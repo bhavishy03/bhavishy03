@@ -4,14 +4,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F3ACE&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer;UI%2FUX+Designer;MERN+Stack+Learner;Freelancer+on+Fiverr+%26+Upwork" alt="Typing Animation" />
 </p>
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on **Portfolio Websites & Food Delivery Web Apps**
-- 🌱 I’m currently learning **Next.js, TypeScript, and 3D Web Design**
-- 👯 I’m looking to collaborate on **UI/UX & MERN Stack Projects**
-- 💬 Ask me about **React, TailwindCSS, Framer Motion, UI Animations**
-- 📫 Reach me at **bhavishy.rajak@gmail.com**
-- ⚡ Fun fact: *I design first, code later 🚀*
+- 🚀 Currently building **modern portfolio websites** and **scalable food delivery web apps**  
+- 🌱 Expanding my skills in **Next.js, TypeScript, and 3D web experiences**  
+- 🤝 Open to collaborating on **UI/UX design and MERN stack projects**  
+- 💡 Passionate about **React, Tailwind CSS, Framer Motion, and smooth UI animations**  
+- 📩 Reach me anytime at **bhavishy.rajak@gmail.com**  
+- 🎨 Fun fact: *I believe great design is the foundation of great code*  
+
 ## 🚀 Tech Stack
 
 ### Languages & Frameworks
@@ -33,20 +34,29 @@
   _Next.js, Framer Motion, Tailwind_  
   A fully responsive, animated developer portfolio.
 
-➡️ Check more at [My Repositories](https://github.com/your-username?tab=repositories)
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="streak" />
-</p>
-## 🌍 Connect with Me
+## 🌍 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://wa.me/919876543210" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:bhavishy.rajak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bhavishy03/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/hi.bhavishy03/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/bhavishy03" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:ih.bhavishy03@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 </p>
+
 ---
 <p align="center">⭐️ From [Bhavishy](https://github.com/your-username)</p>
