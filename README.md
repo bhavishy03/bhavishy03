@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F3ACE&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer;UI%2FUX+Designer;MERN+Stack+Learner;Freelancer+on+Fiverr+%26+Upwork" alt="Typing Animation" />
 </p>
-## 👨‍💻 About Me  
+ 👨‍💻 About Me  
 
 - 🚀 Currently building **modern portfolio websites** and **scalable food delivery web apps**  
 - 🌱 Expanding my skills in **Next.js, TypeScript, and 3D web experiences**  
@@ -13,18 +13,18 @@
 - 📩 Reach me anytime at **bhavishy.rajak@gmail.com**  
 - 🎨 Fun fact: *I believe great design is the foundation of great code*  
 
-## 🚀 Tech Stack
+ 🚀 Tech Stack
 
-### Languages & Frameworks
+ Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb" />
 </p>
 
-### Tools & Design
+ Tools & Design
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,figma,git,github,vscode,photoshop" />
 </p>
-## 💼 Featured Projects
+ 💼 Featured Projects
 
 - 🚀 **[Food Delivery Website](https://your-live-link.com)**  
   _React, Tailwind, Node.js_  
