@@ -10,7 +10,7 @@
 - 🌱 Expanding my skills in **Next.js, TypeScript, and 3D web experiences**  
 - 🤝 Open to collaborating on **UI/UX design and MERN stack projects**  
 - 💡 Passionate about **React, Tailwind CSS, Framer Motion, and smooth UI animations**  
-- 📩 Reach me anytime at **bhavishy.rajak@gmail.com**  
+- 📩 Reach me anytime at **ih.bhavishy03@gmail.com**  
 - 🎨 Fun fact: *I believe great design is the foundation of great code*  
 
  🚀 Tech Stack
@@ -26,11 +26,11 @@
 </p>
  💼 Featured Projects
 
-- 🚀 **[Food Delivery Website](https://your-live-link.com)**  
+- 🚀 **[Food Delivery Website](https://adda-food.vercel.app/)**  
   _React, Tailwind, Node.js_  
   A complete online food delivery platform with modern UI.
 
-- 🎨 **[Portfolio Website](https://your-portfolio-link.com)**  
+- 🎨 **[Portfolio Website](https://bhavishy.vercel.app/)**  
   _Next.js, Framer Motion, Tailwind_  
   A fully responsive, animated developer portfolio.
 
