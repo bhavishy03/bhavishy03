@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavishy</h1>
-<h3 align="center">Web Developer | UI/UX Designer | Freelancer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7F3ACE&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer;UI%2FUX+Designer;MERN+Stack+Learner;Freelancer+on+Fiverr+%26+Upwork" alt="Typing Animation" />
@@ -16,12 +16,12 @@
 
  Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs," />
 </p>
 
  Tools & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,figma,git,github,vscode,photoshop" />
+  <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode," />
 </p>
  💼 Featured Projects
 
