@@ -7,8 +7,7 @@
  👨‍💻 About Me  
 
 - 🚀 Currently building **modern portfolio websites** and **scalable food delivery web apps**  
-- 🌱 Expanding my skills in **Next.js, TypeScript, and 3D web experiences**  
-- 🤝 Open to collaborating on **UI/UX design and MERN stack projects**  
+- 🌱 Expanding my skills in **Next.js, TypeScript**  
 - 💡 Passionate about **React, Tailwind CSS, Framer Motion, and smooth UI animations**  
 - 📩 Reach me anytime at **ih.bhavishy03@gmail.com**  
 - 🎨 Fun fact: *I believe great design is the foundation of great code*  
